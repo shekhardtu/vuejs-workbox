@@ -1,6 +1,6 @@
 {
-  "name": "vuejs-workspace",
-  "displayName": "Vuejs Workspace",
+  "name": "vuejs-workbox",
+  "displayName": "Vuejs Workbox",
   "description":
     "A vuejs development environment setup to code with popular and useful vuejs extensions. ",
   "version": "0.1.0",
@@ -9,7 +9,15 @@
     "vscode": "^1.21.0"
   },
   "categories": ["Extension Packs"],
-  "keywords": ["vuejs", "vue", "vetur", "javascript", "vuejs setup"],
+  "keywords": [
+    "vuejs",
+    "vuejs workbox",
+    "vue",
+    "vetur",
+    "javascript",
+    "vuejs extensions pack",
+    "vuejs plugin pack"
+  ],
   "qna": "marketplace",
   "extensionDependencies": [
     "eg2.vscode-npm-script",
@@ -24,15 +32,15 @@
     "dariofuzinato.vue-peek",
     "formulahendry.auto-close-tag"
   ],
-  "license": "SEE LICENSE IN LICENSE.txt",
+  "license": "https://github.com/harishekhar/vuejs-workbox/blob/master/LICENSE",
   "homepage":
-    "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+    "https://github.com/harishekhar/vuejs-workbox/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/Microsoft/vscode-wordcount/issues",
-    "email": "smcbreen@microsoft.com"
+    "url": "https://github.com/harishekhar/vuejs-workbox/pulls",
+    "email": "shekhardtu@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-wordcount.git"
+    "url": "https://github.com/harishekhar/vuejs-workbox"
   }
 }
