@@ -1,0 +1,38 @@
+{
+  "name": "vuejs-workspace",
+  "displayName": "Vuejs Workspace",
+  "description":
+    "A vuejs development environment setup to code with popular and useful vuejs extensions. ",
+  "version": "0.1.0",
+  "publisher": "Prepmade",
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": ["Extension Packs"],
+  "keywords": ["vuejs", "vue", "vetur", "javascript", "vuejs setup"],
+  "qna": "marketplace",
+  "extensionDependencies": [
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "octref.vetur",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "CoenraadS.bracket-pair-colorizer",
+    "wix.vscode-import-cost",
+    "dbaeumer.vscode-eslint",
+    "mrmlnc.vscode-attrs-sorter",
+    "dariofuzinato.vue-peek",
+    "formulahendry.auto-close-tag"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage":
+    "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/Microsoft/vscode-wordcount/issues",
+    "email": "smcbreen@microsoft.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microsoft/vscode-wordcount.git"
+  }
+}
