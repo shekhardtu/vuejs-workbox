@@ -35,4 +35,7 @@
 ## Credits
 
 * Vuejs workbox has created with the help of above mention plugins. Thanks go to the original authors and contributors of the above mentioned plugin.
-  **Enjoy!**
+
+**Enjoy!**
+
+> Suggestions and pull requests are always welcome.

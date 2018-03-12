@@ -4,7 +4,7 @@
   "description":
     "A vuejs development environment setup to code with popular and useful vuejs extensions. ",
   "version": "0.1.0",
-  "publisher": "Prepmade",
+  "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
   },
@@ -12,9 +12,7 @@
   "keywords": [
     "vuejs",
     "vuejs workbox",
-    "vue",
     "vetur",
-    "javascript",
     "vuejs extensions pack",
     "vuejs plugin pack"
   ],
