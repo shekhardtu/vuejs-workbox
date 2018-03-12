@@ -9,7 +9,15 @@
     "vscode": "^1.21.0"
   },
   "categories": ["Extension Packs"],
-  "keywords": ["vuejs", "vue", "vetur", "javascript", "vuejs setup"],
+  "keywords": [
+    "vuejs",
+    "vuejs workbox",
+    "vue",
+    "vetur",
+    "javascript",
+    "vuejs extensions pack",
+    "vuejs plugin pack"
+  ],
   "qna": "marketplace",
   "extensionDependencies": [
     "eg2.vscode-npm-script",
