@@ -1,4 +1,4 @@
-Vuejs Workbox
+# Vuejs Workbox
 
 ## A vuejs development environment setup to code with popular and useful vuejs extensions
 
@@ -26,6 +26,11 @@ Vuejs Workbox
 
 * [Sorting HTML and Jade attributes](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-attrs-sorter) -
   Sorting of the tag attributes in the specified order.
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) -
+  This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
+* [Import Cost VSCode](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
+
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code. If you are new to ESLint check the [documentation](http://eslint.org/).
 
 ## Credits
 
