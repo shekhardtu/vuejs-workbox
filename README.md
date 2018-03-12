@@ -1,4 +1,4 @@
-# Vuejs Workbox
+Vuejs Workbox
 
 ## A vuejs development environment setup to code with popular and useful vuejs extensions
 
@@ -27,8 +27,7 @@
 * [Sorting HTML and Jade attributes](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-attrs-sorter) -
   Sorting of the tag attributes in the specified order.
 
-## **Credits**
+## Credits
 
-## Vuejs workbox has created with the help of above mention plugins. All credit goes to the enthusiasm of the author of mentioned plugin.
-
-**Enjoy!**
+* Vuejs workbox has created with the help of above mention plugins. Thanks go to the original authors and contributors of the above mentioned plugin.
+  **Enjoy!**
