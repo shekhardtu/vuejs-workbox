@@ -32,10 +32,50 @@
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code. If you are new to ESLint check the [documentation](http://eslint.org/).
 
+## Paste these settings in VS code workspace settings
+
+```
+{
+  "eslint.enable": true,
+  "window.zoomLevel": 1,
+  "files.trimTrailingWhitespace": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.eslintIntegration": true,
+  "prettier.disableLanguages": [],
+  "eslint.autoFixOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true, // only if you want auto      //fomattting on saving the file
+  "editor.detectIndentation": true,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": true,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "eslint.validate": [
+    {
+      "autoFix": true,
+      "language": "javascript"
+    },
+    {
+      "autoFix": true,
+      "language": "vue"
+    }
+  ]
+}
+```
+
 ## Credits
 
 * Vuejs workbox has created with the help of above mention plugins. Thanks go to the original authors and contributors of the above mentioned plugin.
 
 **Enjoy!**
 
-> Suggestions and pull requests are always welcome.
+> Feel free to send pull requests with updates.
+
+```
+
+```

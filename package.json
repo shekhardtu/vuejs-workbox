@@ -1,13 +1,14 @@
 {
-  "name": "vuejs-workbox",
-  "displayName": "Vuejs Workbox",
+  "name": "vuejspack",
+  "displayName": "Vuejs Extension Pack for VS code",
   "description":
-    "A vuejs development environment setup to code with popular and useful vuejs extensions. ",
-  "version": "0.1.0",
+    "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
+  "version": "0.3.1",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
   },
+  "icon": "images/icon.png",
   "categories": ["Extension Packs"],
   "keywords": [
     "vuejs",
