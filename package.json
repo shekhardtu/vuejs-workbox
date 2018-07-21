@@ -1,6 +1,6 @@
 {
   "name": "vuejspack",
-  "displayName": "Vuejs Extension Pack for VS code",
+  "displayName": "Super charged Vuejs Extension Pack",
   "description": "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
   "version": "1.2.0",
   "publisher": "shekhardtu",
@@ -16,7 +16,9 @@
     "vuejs workbox",
     "vetur",
     "vuejs extensions pack",
-    "vuejs plugin pack"
+    "vuejs plugin pack",
+    "vue js plugin pack",
+    "vue extensions pack"
   ],
   "qna": "marketplace",
   "extensionDependencies": [
