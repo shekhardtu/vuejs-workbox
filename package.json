@@ -1,15 +1,16 @@
 {
   "name": "vuejspack",
   "displayName": "Vuejs Extension Pack for VS code",
-  "description":
-    "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
-  "version": "0.3.1",
+  "description": "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
+  "version": "1.2.0",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
   },
   "icon": "images/icon.png",
-  "categories": ["Extension Packs"],
+  "categories": [
+    "Extension Packs"
+  ],
   "keywords": [
     "vuejs",
     "vuejs workbox",
@@ -29,11 +30,15 @@
     "dbaeumer.vscode-eslint",
     "mrmlnc.vscode-attrs-sorter",
     "dariofuzinato.vue-peek",
-    "formulahendry.auto-close-tag"
+    "formulahendry.auto-close-tag",
+    "eamodio.gitlens",
+    "WallabyJs.quokka-vscode",
+    "wayou.vscode-todo-highlight",
+    "xabikos.javascriptsnippets",
+    "robertohuertasm.vscode-icons"
   ],
   "license": "https://github.com/harishekhar/vuejs-workbox/blob/master/LICENSE",
-  "homepage":
-    "https://github.com/harishekhar/vuejs-workbox/blob/master/README.md",
+  "homepage": "https://github.com/harishekhar/vuejs-workbox/blob/master/README.md",
   "bugs": {
     "url": "https://github.com/harishekhar/vuejs-workbox/pulls",
     "email": "shekhardtu@gmail.com"
