@@ -1,8 +1,8 @@
 {
   "name": "vuejspack",
-  "displayName": "Super charged Vuejs Extension Pack",
+  "displayName": "Vue.js Extension Pack",
   "description": "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
-  "version": "1.2.0",
+  "version": "1.3.2",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
@@ -14,10 +14,8 @@
   "keywords": [
     "vuejs",
     "vuejs workbox",
-    "vetur",
     "vuejs extensions pack",
     "vuejs plugin pack",
-    "vue js plugin pack",
     "vue extensions pack"
   ],
   "qna": "marketplace",
@@ -34,7 +32,6 @@
     "dariofuzinato.vue-peek",
     "formulahendry.auto-close-tag",
     "eamodio.gitlens",
-    "WallabyJs.quokka-vscode",
     "wayou.vscode-todo-highlight",
     "xabikos.javascriptsnippets",
     "robertohuertasm.vscode-icons"

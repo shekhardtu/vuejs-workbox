@@ -1,4 +1,4 @@
-# Vuejs Workbox
+# [Vue.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=shekhardtu.vuejspack)
 
 ## A vuejs development environment setup to code with popular and useful vuejs extensions. I can assure you this will the last extension pack for vuejs development that you will ever be needed. Happy coding! Cheers!
 
@@ -35,9 +35,6 @@
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code. If you are new to ESLint check the [documentation](http://eslint.org/).
 
-- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Quokka.js is a rapid prototyping playground in your editor, with access to your project’s files, inline reporting, code coverage and rich output formatting.
-  [documentation](https://quokkajs.com/docs/).
-
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 - [Highlight TODO, FIXME, or whatever annotations.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Another plugin to ensure maintainability of your scalable project. Highlight TODO, FIXME, or whatever annotations.
@@ -67,7 +64,16 @@
   "editor.renderControlCharacters": true,
   "editor.renderWhitespace": "all",
   "files.exclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    ".gitignore": true,
+    ".eslintignore": true,
+    ".eslintrc.js": false,
+    ".babelrc": true,
+    ".editorconfig": true,
+    ".postcssrc.js": true,
+    ".jshintrc": true,
+    "build": true,
+    "config": true
   },
   "eslint.validate": [
     {
@@ -78,7 +84,8 @@
       "autoFix": true,
       "language": "vue"
     }
-  ]
+  ],
+  "attrsSorter.order": ["is", "v-for", "v-if", "v-else-if", "v-else", "v-show", "v-cloak", "v-once", "v-pre", "id", "ref", "key", "slot", "v-model", "v-model.+", "v-bind", "v-bind.+", ":.+", "v-text", "v-text.+", "v-html", "v-html.+", "class", "v-on.+", "@.+", "name", "data-.+", "ng-.+", "src", "for", "type", "href", "values", "title", "alt", "role", "aria-.+", "$unknown$"]
 }
 ```
 
