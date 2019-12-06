@@ -4,7 +4,6 @@
   "files.trimTrailingWhitespace": true,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
-  "prettier.eslintIntegration": true,
   "prettier.disableLanguages": [],
   "eslint.autoFixOnSave": true,
   "editor.insertSpaces": true,

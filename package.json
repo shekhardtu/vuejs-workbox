@@ -1,8 +1,8 @@
 {
   "name": "vuejspack",
-  "displayName": "Vue.js Extension Pack",
+  "displayName": "Vue.js workbox",
   "description": "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
@@ -41,6 +41,11 @@
   "bugs": {
     "url": "https://github.com/harishekhar/vuejs-workbox/pulls",
     "email": "shekhardtu@gmail.com"
+  },
+  "scripts": {
+    "release:major": "npm version major -m '📦 [RELEASE:MAJOR] - v%s' && git push && git push --tags",
+    "release:minor": "npm version minor -m '📦 [RELEASE:MINOR] - v%s' && git push && git push --tags",
+    "release:patch": "npm version patch -m '📦 [RELEASE:PATCH] - v%s' && git push && git push --tags"
   },
   "repository": {
     "type": "git",
