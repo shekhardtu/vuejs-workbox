@@ -2,7 +2,7 @@
   "name": "vuejspack",
   "displayName": "Vue.js workbox",
   "description": "A collection of popular and useful vuejs extensions for working with vuejs applications in VS code. A feature kit to kickstart your vuejs develpment.",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "publisher": "shekhardtu",
   "engines": {
     "vscode": "^1.21.0"
