@@ -45,7 +45,7 @@
 
 ## Paste these recommended settings in VS code workspace settings to supercharged your vs code.
 
-```
+```JSON
 {
   "eslint.enable": true,
   "window.zoomLevel": 1,
